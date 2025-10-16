@@ -1,5 +1,4 @@
 import keyboard
-import time
 
 def on_tab_e():
     print("Tab+E pressed")
